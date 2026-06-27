@@ -1,0 +1,13 @@
+Tools Used
+
+1. ChatGPT
+   - Used for prompt creation and content refinement.
+
+2. HeyGen
+   - Used for AI avatar creation and talking video generation.
+
+3. Voice Recorder
+   - Used for recording voice input for the avatar.
+
+4. Camera
+   - Used for capturing source media and references.
