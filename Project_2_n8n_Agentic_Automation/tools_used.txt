@@ -1,0 +1,6 @@
+n8n
+OpenAI Chat Model
+Google Sheets
+Docker Desktop
+GitHub
+VS Code
