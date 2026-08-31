@@ -1,0 +1,22 @@
+# Project 3 - Workflow Web App
+project-3-workflow-web-app/node_modules/
+project-3-workflow-web-app/.env
+project-3-workflow-web-app/.env.local
+project-3-workflow-web-app/.env.development.local
+project-3-workflow-web-app/.env.test.local
+project-3-workflow-web-app/.env.production.local
+project-3-workflow-web-app/build/
+project-3-workflow-web-app/.DS_Store
+project-3-workflow-web-app/*.log
+project-3-workflow-web-app/package-lock.json
+project-3-workflow-web-app/yarn.lock
+
+# Previous projects
+*/node_modules/
+*/build/
+*/dist/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
